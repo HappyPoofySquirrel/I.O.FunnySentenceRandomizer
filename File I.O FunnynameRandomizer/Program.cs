@@ -36,7 +36,7 @@ namespace File_I.O_FunnynameRandomizer
                     MyStringBuilder.Append(nouns[n] + " " + verbs[v] + " " + prep[p]);  //using string builder to join 
                     
                     Console.WriteLine(MyStringBuilder);    //printing random string 
-                    using (StreamWriter writer = new StreamWriter(@"C: \Users\Sleazy P Martini\Desktop\readforfunnysentence.txt")) //writing new line to file 
+                    using (StreamWriter writer = new StreamWriter(@"C: \Users\Sleazy P Martini\Desktop\new file.txt", true)) //writing new line to file 
                     {
                         writer.WriteLine(MyStringBuilder);
                     }
