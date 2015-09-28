@@ -1,0 +1,6 @@
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\File I.O FunnynameRandomizer\File I.O FunnynameRandomizer\bin\Debug\File I.O FunnynameRandomizer.exe.config
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\File I.O FunnynameRandomizer\File I.O FunnynameRandomizer\bin\Debug\File I.O FunnynameRandomizer.exe
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\File I.O FunnynameRandomizer\File I.O FunnynameRandomizer\bin\Debug\File I.O FunnynameRandomizer.pdb
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\File I.O FunnynameRandomizer\File I.O FunnynameRandomizer\obj\Debug\File I.O FunnynameRandomizer.csprojResolveAssemblyReference.cache
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\File I.O FunnynameRandomizer\File I.O FunnynameRandomizer\obj\Debug\File I.O FunnynameRandomizer.exe
+C:\Users\Sleazy P Martini\Documents\Visual Studio 2015\Projects\File I.O FunnynameRandomizer\File I.O FunnynameRandomizer\obj\Debug\File I.O FunnynameRandomizer.pdb
