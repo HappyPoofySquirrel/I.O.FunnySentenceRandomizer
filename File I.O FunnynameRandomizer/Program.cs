@@ -11,8 +11,9 @@ namespace File_I.O_FunnynameRandomizer
     {
         static void Main(string[] args)
         {
-            
-            using (StreamReader reader = new StreamReader(@"C:\Users\Sleazy P Martini\Desktop\readforfunnysentence.txt"))
+
+            StreamReader reader = new StreamReader(@"..\..\nounsverbsprep.txt");
+                using(reader)
 
             {
 
@@ -36,10 +37,10 @@ namespace File_I.O_FunnynameRandomizer
                     MyStringBuilder.Append(nouns[n] + " " + verbs[v] + " " + prep[p]);  //using string builder to join 
                     
                     Console.WriteLine(MyStringBuilder);    //printing random string 
-                    using (StreamWriter writer = new StreamWriter(@"C: \Users\Sleazy P Martini\Desktop\new file.txt", true)) //writing new line to file 
+                   using (StreamWriter writer = new StreamWriter(@"C: \Users\Sleazy P Martini\Desktop\new file.txt", true)) //writing new line to file. true overwrited file. false would add new line 
                     {
                         writer.WriteLine(MyStringBuilder);
-                    }
+                   }
 
                         Console.WriteLine("Would you like to another sentence? press space bar to continue, any other key to end");
                     ConsoleKeyInfo keyPressed = Console.ReadKey();
