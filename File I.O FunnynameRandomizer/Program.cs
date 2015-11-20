@@ -63,19 +63,7 @@ namespace File_I.O_FunnynameRandomizer
             int indexSel = rnd.Next(0, y);
             return indexSel;
         }
-
-
-
-
-        
-
-
-
-
-
-
-
-   }
+    }
 }
   
 
